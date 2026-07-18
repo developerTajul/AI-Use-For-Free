@@ -40,15 +40,10 @@
 | :--- | :--- | :--- | :--- |
 | **[BluesMind](https://api.bluesminds.com/register?aff=p21u)** | $100 | Email | Supports both GPT & Chinese models. |
 | **[TokenGo](https://dashboard.tokengo.com/sign-up?aff=XN2S)** | 10K Credits | Email | Solid performance for Chinese models. |
-| **[byNara](https://router.bynara.id/register?ref=F6TR6BCG)** | 5M Credits/Day | Telegram | Massive daily quota for specific models. |
+| **[byNara](https://router.bynara.id/register?ref=5S92F2MV)** | 5M Credits/Day | Telegram | Massive daily quota for specific models. |
 | **[Hcnsec.CN](https://api.hcnsec.cn/register?aff=7CdV)** | ₢4K + Check-in | Email | Consistent rewards. |
 | **[AiWave](https://aiwave.live/sign-up?aff=yVX7)** | $5 + Check-in | Email | Standard offering. |
 | **[Xiaomi MiMo](https://platform.xiaomimimo.com?ref=2EQJ8Y)** | Free MiMo Models + $2 Extra | Code: `2EQJ8Y` | Good ecosystem integration. |
-
----
-
-## 💎 Budget-Friendly (Paid)
-*(Looking for suggestions! Should we add some highly affordable paid options here? Let me know in the comments.)*
 
 ---
 *Know of other free services like this? Share them in the comments, and I'll try to add them to the list!*
